@@ -1,0 +1,125 @@
+operation count=0
+cameraservice pid is 8472
+Applications Memory Usage (in Kilobytes):
+Uptime: 162099899 Realtime: 519577761
+                   Pss  Private  Private     Swap      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap     1424     1424        0        0     1424        0        0        0
+  Dalvik Heap        0        0        0        0        0        0        0        0
+        Stack      200      200        0        0      200                           
+       Ashmem      514        0        0        0     1052                           
+    Other dev      100        0      100        0      368                           
+     .so mmap    15016     3104     9396        0    26980                           
+   Other mmap       59       44       12        0      676                           
+      Unknown      624      624        0        0      624                           
+        TOTAL    17937     5396     9508        0    31324        0        0        0
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:        0                              0
+         Native Heap:     1424                           1424
+                Code:    12500                          26980
+               Stack:      200                            200
+            Graphics:        0                              0
+       Private Other:      780
+              System:     3033
+             Unknown:                                    2720
+ 
+           TOTAL PSS:    17937            TOTAL RSS:    31324      TOTAL SWAP (KB):        0
+Process Fd totalCount:47
+###########################################################
+operation count=1
+operation count=2
+operation count=3
+operation count=4
+operation count=5
+operation count=6
+operation count=7
+operation count=8
+operation count=9
+operation count=10
+operation count=11
+operation count=12
+operation count=13
+operation count=14
+operation count=15
+operation count=16
+operation count=17
+operation count=18
+operation count=19
+operation count=20
+operation count=21
+operation count=22
+operation count=23
+operation count=24
+operation count=25
+operation count=26
+operation count=27
+operation count=28
+operation count=29
+operation count=30
+operation count=31
+operation count=32
+operation count=33
+operation count=34
+operation count=35
+operation count=36
+operation count=37
+operation count=38
+operation count=39
+operation count=40
+operation count=41
+operation count=42
+operation count=43
+operation count=44
+operation count=45
+operation count=46
+operation count=47
+operation count=48
+operation count=49
+operation count=50
+cameraservice pid is 8472
+Applications Memory Usage (in Kilobytes):
+Uptime: 162365043 Realtime: 519842906
+                   Pss  Private  Private     Swap      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap     1480     1480        0        0     1480        0        0        0
+  Dalvik Heap        0        0        0        0        0        0        0        0
+        Stack      200      200        0        0      200                           
+       Ashmem      704        0        0        0     1432                           
+    Other dev      100        0      100        0      368                           
+     .so mmap    14937     3104     9284        0    26948                           
+   Other mmap       59       44       12        0      676                           
+      Unknown      624      624        0        0      624                           
+        TOTAL    18104     5452     9396        0    31728        0        0        0
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:        0                              0
+         Native Heap:     1480                           1480
+                Code:    12388                          26948
+               Stack:      200                            200
+            Graphics:        0                              0
+       Private Other:      780
+              System:     3256
+             Unknown:                                    3100
+ 
+           TOTAL PSS:    18104            TOTAL RSS:    31728      TOTAL SWAP (KB):        0
+Process Fd totalCount:51
+###########################################################
+operation count=51
+operation count=52
+operation count=53
+operation count=54
+operation count=55
+operation count=56
+operation count=57
+operation count=58
+operation count=59
+operation count=60
+operation count=61
+operation count=62

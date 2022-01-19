@@ -1,0 +1,125 @@
+operation count=0
+camerahalserver pid is 861
+Applications Memory Usage (in Kilobytes):
+Uptime: 162100458 Realtime: 519578321
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap   242900   242896        4       28   242900        0        0        0
+  Dalvik Heap        0        0        0        0        0        0        0        0
+        Stack     6180     6180        0      180     6180                           
+       Ashmem      514        0        0        0     1052                           
+    Other dev       29        0        4        0      424                           
+     .so mmap    20052     4444    15288      900    25000                           
+   Other mmap       47       36        8        8      692                           
+      Unknown     9900     9900        0    12536     9900                           
+        TOTAL   293274   263456    15304    13652   286148        0        0        0
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:        0                              0
+         Native Heap:   242896                         242900
+                Code:    19732                          25000
+               Stack:     6180                           6180
+            Graphics:        0                              0
+       Private Other:     9952
+              System:    14514
+             Unknown:                                   12068
+ 
+           TOTAL PSS:   293274            TOTAL RSS:   286148       TOTAL SWAP PSS:    13652
+Process Fd totalCount:261
+###########################################################
+operation count=1
+operation count=2
+operation count=3
+operation count=4
+operation count=5
+operation count=6
+operation count=7
+operation count=8
+operation count=9
+operation count=10
+operation count=11
+operation count=12
+operation count=13
+operation count=14
+operation count=15
+operation count=16
+operation count=17
+operation count=18
+operation count=19
+operation count=20
+operation count=21
+operation count=22
+operation count=23
+operation count=24
+operation count=25
+operation count=26
+operation count=27
+operation count=28
+operation count=29
+operation count=30
+operation count=31
+operation count=32
+operation count=33
+operation count=34
+operation count=35
+operation count=36
+operation count=37
+operation count=38
+operation count=39
+operation count=40
+operation count=41
+operation count=42
+operation count=43
+operation count=44
+operation count=45
+operation count=46
+operation count=47
+operation count=48
+operation count=49
+operation count=50
+camerahalserver pid is 861
+Applications Memory Usage (in Kilobytes):
+Uptime: 162365631 Realtime: 519843493
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap   315004   315000        4       28   315004        0        0        0
+  Dalvik Heap        0        0        0        0        0        0        0        0
+        Stack     6184     6184        0      180     6184                           
+       Ashmem      704        0        0        0     1432                           
+    Other dev       29        0        4        0      424                           
+     .so mmap    20462     4444    15700      900    25412                           
+   Other mmap       47       36        8        8      692                           
+      Unknown     9900     9900        0    12536     9900                           
+        TOTAL   365982   335564    15716    13652   359048        0        0        0
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:        0                              0
+         Native Heap:   315000                         315004
+                Code:    20144                          25412
+               Stack:     6184                           6184
+            Graphics:        0                              0
+       Private Other:     9952
+              System:    14702
+             Unknown:                                   12448
+ 
+           TOTAL PSS:   365982            TOTAL RSS:   359048       TOTAL SWAP PSS:    13652
+Process Fd totalCount:281
+###########################################################
+operation count=51
+operation count=52
+operation count=53
+operation count=54
+operation count=55
+operation count=56
+operation count=57
+operation count=58
+operation count=59
+operation count=60
+operation count=61
+operation count=62

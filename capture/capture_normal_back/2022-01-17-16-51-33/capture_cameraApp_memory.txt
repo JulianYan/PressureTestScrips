@@ -1,0 +1,177 @@
+operation count=0
+cameraapp pid is 8521
+Applications Memory Usage (in Kilobytes):
+Uptime: 162098604 Realtime: 519576466
+
+** MEMINFO in pid 8521 [com.nothing.camera] **
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap    26756    26708        0       18    28828    41524    33497     2263
+  Dalvik Heap    12454    12216        0       18    20004    50974    12744    38230
+ Dalvik Other     4964     4472        0        0     6692                           
+        Stack     1204     1204        0        0     1216                           
+       Ashmem      519      440        0        0     1264                           
+      Gfx dev     1324     1324        0        0     1328                           
+    Other dev       45        0       44        0      344                           
+     .so mmap     8765      344     3468        4    46844                           
+    .jar mmap     2560        0      336        0    32492                           
+    .apk mmap    20386       28    19712        0    23036                           
+    .ttf mmap       43        0       12        0      128                           
+    .dex mmap      351       24      320        0      756                           
+    .oat mmap      115        0        0        0     3472                           
+    .art mmap     6628     6216       12        0    19812                           
+   Other mmap     1117        8      488        0     3508                           
+   EGL mtrack   103036   103036        0        0   103036                           
+    GL mtrack     4572     4572        0        0     4572                           
+      Unknown      486      468        4        4     1132                           
+        TOTAL   195369   161060    24396       44   298464    92498    46241    40493
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:    18444                          39816
+         Native Heap:    26708                          28828
+                Code:    24244                         107724
+               Stack:     1204                           1216
+            Graphics:   108932                         108936
+       Private Other:     5924
+              System:     9913
+             Unknown:                                   11944
+ 
+           TOTAL PSS:   195369            TOTAL RSS:   298464       TOTAL SWAP PSS:       44
+ 
+ Objects
+               Views:      109         ViewRootImpl:        1
+         AppContexts:        7           Activities:        1
+              Assets:       14        AssetManagers:        0
+       Local Binders:       28        Proxy Binders:       37
+       Parcel memory:       12         Parcel count:       50
+    Death Recipients:        2      OpenSSL Sockets:        0
+            WebViews:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+Process Fd totalCount:223
+###########################################################
+operation count=1
+operation count=2
+operation count=3
+operation count=4
+operation count=5
+operation count=6
+operation count=7
+operation count=8
+operation count=9
+operation count=10
+operation count=11
+operation count=12
+operation count=13
+operation count=14
+operation count=15
+operation count=16
+operation count=17
+operation count=18
+operation count=19
+operation count=20
+operation count=21
+operation count=22
+operation count=23
+operation count=24
+operation count=25
+operation count=26
+operation count=27
+operation count=28
+operation count=29
+operation count=30
+operation count=31
+operation count=32
+operation count=33
+operation count=34
+operation count=35
+operation count=36
+operation count=37
+operation count=38
+operation count=39
+operation count=40
+operation count=41
+operation count=42
+operation count=43
+operation count=44
+operation count=45
+operation count=46
+operation count=47
+operation count=48
+operation count=49
+operation count=50
+cameraapp pid is 8521
+Applications Memory Usage (in Kilobytes):
+Uptime: 162364345 Realtime: 519842208
+
+** MEMINFO in pid 8521 [com.nothing.camera] **
+                   Pss  Private  Private  SwapPss      Rss     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty    Total     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------   ------
+  Native Heap    30396    30348        0       18    32468    50764    39216     2725
+  Dalvik Heap    99283    99052        0       17   106840    64062    16016    48046
+ Dalvik Other     5856     4360        0        0     8584                           
+        Stack     1380     1380        0        0     1392                           
+       Ashmem      515      436        0        0     1264                           
+      Gfx dev     4644     4644        0        0     4648                           
+    Other dev       45        0       44        0      368                           
+     .so mmap     8765      360     3496        4    46984                           
+    .jar mmap     2512        0      336        0    32628                           
+    .apk mmap    20526       52    19864        0    23048                           
+    .ttf mmap       43        0       12        0      128                           
+    .dex mmap      351       24      320        0      756                           
+    .oat mmap      111        0        0        0     3456                           
+    .art mmap     6669     6228       44        0    19880                           
+   Other mmap      874        8      360        0     3096                           
+   EGL mtrack   113312   113312        0        0   113312                           
+    GL mtrack     4568     4568        0        0     4568                           
+      Unknown      497      480        4        4     1132                           
+        TOTAL   300390   265252    24480       43   404552   114826    55232    50771
+ 
+ App Summary
+                       Pss(KB)                        Rss(KB)
+                        ------                         ------
+           Java Heap:   105324                         126720
+         Native Heap:    30348                          32468
+                Code:    24500                         110040
+               Stack:     1380                           1392
+            Graphics:   122524                         122528
+       Private Other:     5656
+              System:    10658
+             Unknown:                                   11404
+ 
+           TOTAL PSS:   300390            TOTAL RSS:   404552       TOTAL SWAP PSS:       43
+ 
+ Objects
+               Views:      109         ViewRootImpl:        1
+         AppContexts:        7           Activities:        1
+              Assets:       14        AssetManagers:        0
+       Local Binders:       27        Proxy Binders:       40
+       Parcel memory:       14         Parcel count:       58
+    Death Recipients:        2      OpenSSL Sockets:        0
+            WebViews:        0
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 
+Process Fd totalCount:229
+###########################################################
+operation count=51
+operation count=52
+operation count=53
+operation count=54
+operation count=55
+operation count=56
+operation count=57
+operation count=58
+operation count=59
+operation count=60
+operation count=61
+operation count=62

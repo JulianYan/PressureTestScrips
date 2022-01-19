@@ -1,0 +1,3 @@
+./capture_yijiaohui/capture_normal_back/2022-01-17-16-51-33/capture_cameraApp_memory.txt
+./capture_yijiaohui/capture_normal_back/2022-01-17-16-51-33/capture_cameraServer_memory.txt
+./capture_yijiaohui/capture_normal_back/2022-01-17-16-51-33/capture_camerHalServer_memory.txt
